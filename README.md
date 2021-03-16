@@ -11,7 +11,7 @@
   Tools: Adobe XD, Sketch Adobe, Photoshop, Adobe Illustrator
   Code: HTML5, CSS3, SCSS, SASS, FlexBox, PrimeNG, Material, Bootstrap"
 
-- 🌱 I’m currently Working as UI UX Designer in @techwards
+- 🌱 I’m currently Working Senior Software Engineer (UI/UX) at Techwards
 - 📫 How to reach me ...
     - Email: gqaqirbarejo@gmail.com
     - Phone: +923154988243
