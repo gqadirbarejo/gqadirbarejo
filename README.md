@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently Working Senior Software Engineer (UI/UX) at Techwards
 - 📫 How to reach me ...
-    - Email: gqaqirbarejo@gmail.com
+    - Email: gqadirbarejo@gmail.com
     - Phone: +923154988243
     - Linkedin: https://www.linkedin.com/in/gqadirbarejo/
 
